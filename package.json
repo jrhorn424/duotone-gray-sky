@@ -1,0 +1,18 @@
+{
+  "name": "duotone-gray-sky",
+  "theme": "syntax",
+  "version": "2.1.0",
+  "description": "Gray-heavy, blue-accented",
+  "keywords": [
+    "duotone",
+    "syntax",
+    "dark",
+    "gray",
+    "blue"
+  ],
+  "repository": "https://github.com/jrhorn424/duotone-gray-sky",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
