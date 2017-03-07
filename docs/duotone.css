@@ -3,7 +3,7 @@ atom-text-editor {
   background-color: #272734;
 }
 atom-text-editor .line.cursor-line {
-  background-color: rgba(66, 66, 87, 0.26);
+  background-color: rgba(105, 105, 140, 0.26);
 }
 atom-text-editor .invisible {
   color: #c4c4ca;
@@ -13,20 +13,20 @@ atom-text-editor .cursor {
   border-left-width: 2px;
 }
 atom-text-editor .selection .region {
-  background-color: #424257;
+  background-color: #69698c;
 }
 atom-text-editor .bracket-matcher .region {
   border-bottom: 1px solid #f6f8f9;
 }
 atom-text-editor .invisible-character {
-  color: #3d3d51;
+  color: #53536e;
   -webkit-font-smoothing: antialiased;
 }
 atom-text-editor .indent-guide {
-  color: #3d3d51;
+  color: #53536e;
 }
 atom-text-editor .wrap-guide {
-  background-color: #3d3d51;
+  background-color: #53536e;
 }
 atom-text-editor .find-result .region.region.region,
 atom-text-editor .current-result .region.region.region {
